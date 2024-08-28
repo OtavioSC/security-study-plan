@@ -123,6 +123,9 @@ You can start preparing for the job interview once you have solid knowledge as p
 * What did you learn in the last 6 months and how was it relevant to your career/project?
 * Where do you see after 5 years of working with this organization?
 
+## New content about it
+* [Entry level content](https://meninadecybersec.notion.site/Iniciando-em-Cybersecurity-e-Seguran-a-da-Informa-o-cfe02d5ac2b74576b315083387894890)
+
 You can check [some common answers from here](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs)
 
 ## Let's contribute and grow this repo together
